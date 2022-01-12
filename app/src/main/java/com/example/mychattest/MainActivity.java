@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void initMsg() {
-        Msg msg1 = new Msg("Hello,I am Tom,Who are you?", Msg.RECEIVE);
+        Msg msg1 = new Msg("Hello,I am Tom,Who are you111?", Msg.RECEIVE);
         msgList.add(msg1);
         Msg msg2 = new Msg("I am Peter,Nice to meet you.", Msg.SENT);
         msgList.add(msg2);
